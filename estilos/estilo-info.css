@@ -4,7 +4,7 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-image: url(./imagens/fundo-2.jpg);
+    background-image: url(../imagens/fundo-2.jpg);
     background-position: center bottom;
     background-size: cover;
     background-repeat: no-repeat;
