@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: 'porcelain';
-    src: url(../fontes/Porcelain.ttf) format('truetype');
+    src: url(fontes/Porcelain.ttf) format('truetype');
 }
 
 * {
