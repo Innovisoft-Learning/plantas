@@ -5,7 +5,7 @@ body {
     width: 95vw;
     height: 115vh;
     overflow-x: hidden;
-    background-image: url(imagens/fundo.jpg);
+    background-image: url(./imagens/fundo.jpg);
     background-position: center bottom;
     background-size: cover;
 }
