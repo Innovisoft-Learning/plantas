@@ -11,7 +11,23 @@ function carregarConteudo(arquivo) {
         .catch(error => console.error("Erro ao carregar conteúdo: " + error));
 }
 
-// Carregue a página inicial por padrão
-if (variavelControle == "Norte") {
-    carregarConteudo("regiao1.json")
+// Carregue o conteúdo com base na variávelControle
+switch (variavelControle) {
+    case "Norte":
+        carregarConteudo("regiao1.json");
+        break;
+    case "Sul":
+        carregarConteudo("regiao2.json");
+        break;
+    case "CO":
+        carregarConteudo("regiao3.json");
+        break;
+    case "NO":
+        carregarConteudo("regiao4.json");
+        break;
+    case "SD":
+        carregarConteudo("regiao5.json");
+        break;
+    default:
+        // Carregue um conteúdo padrão ou trate outros casos aqui
 }
