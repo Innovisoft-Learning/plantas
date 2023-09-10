@@ -11,6 +11,22 @@ body {
     overflow-x: hidden;
 }
 
+#voltar {
+    background-color: var(--cor01);
+    text-align: center;
+    width: 60px;
+    color: white;
+    font-size: 2em;
+    font-family: var(--fonte01);
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#voltar > a {
+    text-decoration: none;
+    color: white;
+}
+
 #parte-cima {
     height: 100px;
 }
