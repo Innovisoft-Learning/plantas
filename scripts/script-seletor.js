@@ -8,8 +8,11 @@ function carregarConteudo(arquivo) {
         })
         .catch(error => console.error("Erro ao carregar conteúdo: " + error));
 }
+
 let variavelControle = localStorage.getItem("variavelControle");
+
 console.log(variavelControle)
+
 document.addEventListener("DOMContentLoaded", function () {
     // Acesse a variável global diretamente, sem importar
     console.log("Segunda pagina carregada. O valor da variavel de controle é: ", variavelControle);
@@ -29,5 +32,3 @@ document.addEventListener("DOMContentLoaded", function () {
         carregarConteudo("regioes-json/sul.json");
     }
 });
-
-
