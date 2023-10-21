@@ -1,16 +1,12 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Obtém referências aos elementos
     const btnCaracteristicas = document.getElementById("btn-caracteristicas");
-    const btnOrigem = document.getElementById("btn-origem");
     const btnBeneficios = document.getElementById("btn-beneficios");
-    const btnReceitas = document.getElementById("btn-receitas");
     const infoBox = document.getElementById("info");
   
     // Define os eventos de clique para os botões
     btnCaracteristicas.addEventListener("click", () => showInfo("Características"));
-    btnOrigem.addEventListener("click", () => showInfo("Origem"));
     btnBeneficios.addEventListener("click", () => showInfo("Benefícios"));
-    btnReceitas.addEventListener("click", () => showInfo("Receita(s)"));
   
     // Função para mostrar informações e animar os botões
     function showInfo(infoText) {
@@ -41,9 +37,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
         // Remove a classe 'ativo' de todos os botões
         btnCaracteristicas.classList.remove("ativo");
-        btnOrigem.classList.remove("ativo");
         btnBeneficios.classList.remove("ativo");
-        btnReceitas.classList.remove("ativo");
   
         // Mostra a parte de informações
         infoBox.style.opacity = 1;
