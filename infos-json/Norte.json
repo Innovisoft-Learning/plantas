@@ -1,0 +1,42 @@
+{
+    "p1": {
+        "caracs": "A Alfavaca é uma erva aromática com folhas verdes, frequentemente usada como tempero e na medicina tradicional. Possui várias variedades com sabores e aromas diferentes.",
+        "benefs": "Pode ajudar na digestão e aliviar sintomas de indigestão. É valorizada por suas propriedades medicinais, como propriedades antioxidantes e anti-inflamatórias."
+    },
+    "p9": {
+        "caracs": "Moringa é uma árvore de crescimento rápido, atingindo 8 a 12 metros de altura. Suas folhas são altamente nutritivas, contendo vitaminas, minerais e antioxidantes como vitamina C, vitamina A, cálcio, potássio e ferro. As folhas têm um sabor suave e vegetal semelhante ao espinafre. Os frutos jovens têm um sabor suave e adocicado, parecido com o quiabo. Suas sementes, quando jovens e frescas, têm um sabor suave e amendoado. A Moringa é apreciada tanto por seus benefícios à saúde quanto por seu potencial culinário.",
+        "benefs": "Rica em proteínas, vitaminas e minerais. Mais nutritiva do que frutas e legumes comuns. Pode ser usada para recuperar solos através da produção de óleo. Possui propriedades anti-inflamatórias e antioxidantes. Pode purificar a água de beber. Pesquisas indicam que o tratamento com sementes de Moringa pode eliminar de 90 a 99% das bactérias na água."
+    },
+    "p8": {
+        "caracs": "Jambu é uma erva perene com altura de 20 a 40 centímetros. Seu caule pode ser rastejante ou semi-ereto. As folhas são membranáceas. Flores amarelas, agrupadas em capítulos cônicos amarelos com 1 cm x 1 cm.",
+        "benefs": "Efeito analgésico tradicionalmente reconhecido. Estimulador de apetite. Possui propriedades anti-inflamatórias e diuréticas. Rico em nutrientes, incluindo ferro, fósforo, sais minerais, cálcio, proteínas e vitaminas."
+    },
+    "p4": {
+        "caracs": "Chicória possui folhas semelhantes às da alface, com formato lanceolado, cor esverdeada, cerca de 30 centímetros de comprimento e 6 centímetros de largura. As folhas podem ser lisas ou apresentar nervuras, com um sabor levemente amargo. Os talos são pubescentes. As flores são azuladas e encontram-se agrupadas em uma inflorescência do tipo capítulo.",
+        "benefs": "O chá de chicória pode aliviar sintomas como vômitos, diarreia, gripes e resfriados. Pode ser usado no controle de diabetes. Ajuda na redução da retenção de líquidos pelo corpo."
+    },
+    "p2": {
+        "caracs": "Araça-boi é uma árvore com copa arredondada, atingindo de 3 a 10 metros de altura. Seu tronco tem diâmetro médio de 15 a 25 cm, de cor castanho-avermelhada escura, com casca descamante. Folhas são simples, opostas, lanceoladas e de cor verde-escura.",
+        "benefs": "Rico em vitamina C, fibras e cobre. Ajuda no tratamento da disenteria devido à vitamina C e fibras. A vitamina C auxilia na digestão e o cobre no controle do metabolismo. Beneficia a saúde da visão e do cérebro."
+    },
+    "p5": {
+        "caracs": "Cipó-Alho é uma planta trepadeira que recebe esse nome devido ao cheiro de alho de suas folhas quando esmagadas. Suas folhas geralmente são lineares e brilhantes. É conhecido por suas propriedades medicinais e aromáticas.",
+        "benefs": "O cipó-alho é conhecido por seu uso na medicina tradicional, pois possui propriedades antibióticas e antifúngicas. É usado para tratar infecções, especialmente aquelas relacionadas a fungos. Além disso, o cipó-alho é usado em algumas culturas como tempero devido ao seu sabor semelhante ao alho."
+    },
+    "p6": {
+        "caracs": "Coentro do Pasto é uma planta que compartilha algumas semelhanças com o coentro comum, embora tenha sabor e aroma diferentes. Suas folhas são frequentemente utilizadas em preparações culinárias e na medicina tradicional.",
+        "benefs": "O coentro do pasto é usado na medicina tradicional para tratar diversas condições, incluindo problemas gastrointestinais, inflamações e infecções. É valorizado por suas propriedades medicinais, incluindo ação anti-inflamatória."
+    },
+    "p7": {
+        "caracs": "O Cubiu é uma planta extremamente versátil, mas muitas pessoas não estão cientes de como consumi-lo. Pode ser usado em saladas, molhos salgados, molhos apimentados, caldeiradas de peixe e cozido com carne bovina. Suas propriedades agronômicas, nutricionais, medicinais e tecnológicas fazem dele um produto regional com alto potencial de mercado. É uma escolha atraente para aqueles que se preocupam com alimentação saudável.",
+        "benefs": "Possui ação contra a elevação do colesterol e triglicerídeos, semelhante à berinjela, mas com 3 vezes mais vitamina B3. Rico em niacina (vitamina B3), que está relacionada ao metabolismo de lipídios, regulação dos níveis de colesterol e à formação de substâncias mensageiras no cérebro. Contém betacaroteno (precursor da vitamina A), vitamina C, selênio, pectina e uma grande quantidade de fibras."
+    },
+    "p3": {
+        "caracs": "O Camu-Camu é uma pequena fruta vermelha que cresce em arbustos nativos da região amazônica. É conhecido por ser uma das frutas mais ricas em vitamina C no mundo.",
+        "benefs": "Excelente fonte de vitamina C, o que fortalece o sistema imunológico. Pode conter propriedades antioxidantes e anti-inflamatórias."
+    },
+    "p10": {
+        "caracs": "A Vitória-régia é uma planta aquática exuberante, conhecida por suas grandes folhas redondas que flutuam na água. É uma planta muito popular na região amazônica e suas folhas podem suportar o peso de uma pequena criança.",
+        "benefs": "As folhas da Vitória-régia contêm nutrientes importantes, como vitamina C, vitamina A, ferro e fibras. As folhas da Vitória-régia podem ser consumidas na forma de vegetais cozidos. Elas são ricas em fibras, vitaminas e minerais, o que as torna uma adição saudável à dieta."
+    }
+}

@@ -60,6 +60,10 @@ body {
     flex-direction: column;
 }
 
+.texto-info {
+    padding: 0px 15px;
+}
+
 .botao-opcao {
     background-color: var(--cor01);
     border: none;
