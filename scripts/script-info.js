@@ -4,14 +4,14 @@ function carac(){
   botaoEscolha = "Caracteristícas"
   console.log("escolheu caracteristicas")
   showInfo(botaoEscolha, planta, variavelControle); // Isso carregaria as características da planta p1 da 
-  infoBox.style.cssText = 'padding: 30px;' + 'text-indent: 25px;' + 'text-align: justify;';
+  infoBox.style.cssText = 'padding: 30px;' + 'text-align: justify;';
 }
 
 function benef(){
   botaoEscolha = "Benefícios"
   console.log("escolheu beneficios")
   showInfo(botaoEscolha, planta, variavelControle); // Isso carregaria as características da planta p1 da 
-  infoBox.style.cssText = 'padding: 30px;' + 'text-indent: 25px;' + 'text-align: justify;';
+  infoBox.style.cssText = 'padding: 30px;' + 'text-align: justify;';
 
 }
 
@@ -60,6 +60,7 @@ function showInfo(infoText, plantaSelecionada, regiaoSelecionada) {
         }
         nome.innerHTML = data[plantaSelecionada].nome;
         imagem.src = `./imagens-plantas/${variavelControle}/${plantaSelecionada}-${variavelControle}.jpeg`;
+        nome.style.cssText = 'padding: 10px;';
         
       })
       .catch(error => console.error("Erro ao carregar conteúdo: " + error));
