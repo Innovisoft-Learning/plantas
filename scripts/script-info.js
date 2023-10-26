@@ -4,13 +4,14 @@ function carac(){
   botaoEscolha = "Caracteristícas"
   console.log("escolheu caracteristicas")
   showInfo(botaoEscolha, planta, variavelControle); // Isso carregaria as características da planta p1 da 
-
+  infoBox.style.cssText = 'padding: 30px;' + 'text-indent: 25px;' + 'text-align: justify;';
 }
 
 function benef(){
   botaoEscolha = "Benefícios"
   console.log("escolheu beneficios")
   showInfo(botaoEscolha, planta, variavelControle); // Isso carregaria as características da planta p1 da 
+  infoBox.style.cssText = 'padding: 30px;' + 'text-indent: 25px;' + 'text-align: justify;';
 
 }
 
@@ -18,6 +19,8 @@ function benef(){
 const btnCaracteristicas = document.getElementById("btn-caracteristicas");
 const btnBeneficios = document.getElementById("btn-beneficios");
 const infoBox = document.getElementById("info");
+const nome = document.getElementById("nome-planta");
+let imagem = document.getElementById("imagem-planta");
 
 // Função para carregar e exibir informações com base na região, planta selecionada e botão clicado
 function showInfo(infoText, plantaSelecionada, regiaoSelecionada) {
@@ -55,6 +58,9 @@ function showInfo(infoText, plantaSelecionada, regiaoSelecionada) {
           const infoContent = data[plantaSelecionada].benefs;
         infoBox.innerHTML = `<p>${infoContent}</p>`;
         }
+        nome.innerHTML = data[plantaSelecionada].nome;
+        imagem.src = `./imagens-plantas/${variavelControle}/${plantaSelecionada}-${variavelControle}.jpeg`;
+        
       })
       .catch(error => console.error("Erro ao carregar conteúdo: " + error));
 

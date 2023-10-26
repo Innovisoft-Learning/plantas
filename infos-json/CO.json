@@ -1,41 +1,51 @@
 {
     "p10": {
-      "caracs": "Subarbusto ereto, perene, de 40-120 cm de altura. Folhas inteiras, de 7-15 cm de comprimento. Flores pequenas de cor branca ou amarelada. O pecíolo das folhas e ramos possuem pêlos e cerdas com forte ação urticante, causadas pela presença de ácido fórmico e aminas.",
+      "nome": "Urtigão",
+      "caracs": "Subarbusto ereto, perene, de 40-120 cm de altura. Folhas inteiras, de 7-15 cm de comprimento.<br/> Flores pequenas de cor branca ou amarelada. O pecíolo das folhas e ramos possuem pêlos e cerdas com forte ação urticante, causadas pela presença de ácido fórmico e aminas.",
       "benefs": "Ajuda em casos de artrite, pressão alta, diabetes, rinite, tosse alérgica, acne, dermatite, dor muscular, inflamação na gengiva, anemia, infecção urinária e pedra nos rins."
     },
     "p8": {
+      "nome": "Peixinho-da-horta",
       "caracs": "Planta herbácea e perene, capaz de crescer até 20 cm de altura. Desenvolve-se melhor em climas amenos, entre 5°C e 30°C. Cresce mais facilmente nas regiões Sul, Sudeste e Centro-oeste do Brasil, em solos bem drenados e com matéria orgânica.",
       "benefs": "Contém altos níveis de vitamina C e K, além de fibras, auxiliando na digestão. Atua como antioxidante, contribuindo na ação das células do organismo e no controle do estresse oxidativo."
     },
     "p7": {
+      "nome": "Óra-pro-nóbis",
       "caracs": "As folhas medem cerca de 7 centímetros e são suculentas. Sendo uma cactácea, a planta tem espinhos, exigindo cuidado na manipulação.",
       "benefs": "Destacado potencial antimicrobiano, antioxidante, anticancerígeno e antibacteriano. Rico em proteínas, aminoácidos essenciais, ferro, zinco, manganês, vitamina A e vitamina C. Pode ser usado para combater deficiências nutricionais."
     },
     "p1": {
+      "nome": "Baru",
       "caracs": "O tronco da árvore Baru apresenta casca suberosa ou escamosa com espessura total até 15mm. Alburno branco-amarelado, cerne castanho-amarelado de aspecto fibroso atenuado. Tem cheiro e gosto imperceptíveis.",
       "benefs": "Possui propriedades antioxidantes e é rico em vitamina E, zinco, ferro, potássio, cálcio, fósforo, magnésio e ácidos graxos. Ajuda a diminuir o colesterol e combater doenças cardiovasculares. Reduz os riscos de Alzheimer, diabetes, obesidade e câncer."
     },
     "p5": {
+      "nome": "Gabiroba",
       "caracs": "Árvore que pode atingir até 15 metros de altura. Tronco ereto com casca levemente sulcada. Folhas verde-claras com aroma característico quando maceradas. Flores pequenas de coloração creme-esbranquiçada.",
       "benefs": "Rica em vitaminas C e do complexo B, sais minerais, niacina, carboidratos e proteínas. Possui propriedades terapêuticas, incluindo ação adstringente, antidiarreica, antigripal e anti-inflamatória."
     },
     "p2": {
+      "nome": "Cajuzinho",
       "caracs": "Árvore que cresce de forma selvagem. Altura média de 2,75 metros, com tronco retorcido e subterrâneo que armazena água.",
       "benefs": "Toda a planta é empregada na medicina popular. Infusão de folhas e casca do caule subterrâneo para curar diarreias. Óleo encontrado na castanha tem ação antisséptica e cicatrizante."
     },
     "p4": {
+      "nome": "Coentro",
       "caracs": "Erva anual que pode atingir até 1 metro de altura. Folhas alternas, pinadas, e de coloração verde brilhante. Caule ereto, flores de coloração rosa ou branca organizadas em umbelas.",
       "benefs": "Ótimo para a digestão, saúde da pele, saúde do coração e prevenção de anemia. Combate infecções intestinais e ajuda na qualidade do sono."
     },
     "p9": {
+      "nome": "Pequi",
       "caracs": "Folhas grandes, divididas em três folíolos com penugem. Fruto com casca verde e polpa comestível macia e amarela.",
       "benefs": "Rico em nutrientes e antioxidantes. Facilita a digestão, beneficia a visão, melhora a pele e cabelo e ajuda a controlar a pressão arterial."
     },
     "p3": {
+      "nome": "Cambuci",
       "caracs": "Folhas simples, lisas, flores axilares pedunculadas e solitárias. Fruto achatado, de cor verde mesmo quando maduro, com polpa doce-acidulada.",
       "benefs": "Rica em antioxidantes e vitamina C, fortalecendo a imunidade e combatendo radicais livres."
     },
     "p6": {
+      "nome": "Mangaba",
       "caracs": "Árvore de porte médio com altura de 4 a 7 metros, podendo chegar até 15 metros. Tronco único, tortuoso ou reto, com ramos inclinados e copa ampla.",
       "benefs": "Rica em vitamina A, vitamina C, ferro e cálcio. Melhora a saúde da visão, combate radicais livres, auxilia na saúde óssea e fortalece o sistema imunológico."
     }
