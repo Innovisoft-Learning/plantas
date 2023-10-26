@@ -1,0 +1,39 @@
+{
+    "p6": {
+      "caracs": "Planta pequena com folhas recortadas em forma de dentes agudos e curvos.",
+      "benefs": "Pode ser usado como diurético. Pode ser usado como laxante suave. Pode ser usado como depurativo."
+    },
+    "p1": {
+      "caracs": "Vegetal que cresce espontaneamente, com folhas semelhantes à chicória.",
+      "benefs": "Rico em fibras, vitaminas e minerais, com ação antioxidante, anti-inflamatória e outros benefícios."
+    },
+    "p2": {
+      "caracs": "Possui caules achatados, ramos laterais verdes-amarelados, flores amarelas e frutos vermelhos ou vermelho-escuros.",
+      "benefs": "Contém compostos bioativos que ajudam a prevenir doenças, regulam o trânsito intestinal e auxiliam na perda de peso."
+    },
+    "p3": {
+      "caracs": "Planta perene com folhagens suculentas e raízes tuberosas.",
+      "benefs": "Usada para combater diarreias, escorbuto, cólicas, entre outros."
+    },
+    "p7": {
+      "caracs": "Cresce espontaneamente em terrenos baldios, com folhas alongadas e flores pequenas de cor esbranquiçada.",
+      "benefs": "Pode ser usado como anti-inflamatório e cicatrizante em casos de fraturas e pancadas."
+    },
+    "p9": {
+      "caracs": "Tem espinhos urticantes do caule até as nervuras dorsais das folhas.",
+      "benefs": "Possui propriedades medicinais, incluindo ação diurética, anti-inflamatória, antiviral e antidiabética."
+    },
+    "p5": {
+      "caracs": "Erva perene com caules suculentos e folhas ovais.",
+      "benefs": "Usada na prevenção e tratamento de várias doenças, incluindo falta de apetite, alergias na pele e problemas digestivos."
+    },
+    "p4": {
+      "caracs": "Planta suculenta de folhas ovais e flores amarelas.",
+      "benefs": "Excelente fonte de nutrientes essenciais, incluindo vitaminas e minerais como vitamina C, vitamina A, magnésio, cálcio e potássio."
+    },
+    "p8": {
+      "caracs": "Erva rasteira que não chega a 30 cm de altura.",
+      "benefs": "Tem ação diurética, auxilia no funcionamento do corpo e ajuda na prevenção e tratamento de doenças urinárias."
+    }
+  }
+  

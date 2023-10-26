@@ -62,7 +62,8 @@ body {
 
 .texto-info {
     padding: 0px 15px;
-}
+    margin: 20px; /* Altere o valor da margem conforme necessário */
+  }
 
 .botao-opcao {
     background-color: var(--cor01);

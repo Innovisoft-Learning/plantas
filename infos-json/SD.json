@@ -1,0 +1,43 @@
+{
+    "p6": {
+      "caracs": "Pequeno arbusto frutífero da família das Solanáceas. Fruto maduro tem aspecto amarelo com riscas roxas. Sabor semelhante ao melão, mas menos doce com um toque de granulosidade de pera. Refrescante e com baixas calorias.",
+      "benefs": "Rico em fibras, proteínas, taninos, vitamina C, caroteno e carboidratos. Possui propriedades diuréticas. Observação: Não consumir a casca."
+    },
+    "p3": {
+      "caracs": "Usada em refogados, saladas, crua ou como tempero. Sabor levemente amargo e picante, lembrando jambu e manga verde.",
+      "benefs": "Rica em proteínas, fósforo, ferro, zinco e vitamina A."
+    },
+    "p4": {
+      "caracs": "Possui um cheiro forte de alho. Pode crescer sem cultivo. Tanto os bulbos quanto as folhas podem ser utilizados na culinária, substituindo o alho ou algum legume.",
+      "benefs": "Purifica e elimina toxinas do corpo. Melhora a flora intestinal e influencia favoravelmente na circulação e tensão."
+    },
+    "p10": {
+      "caracs": "Planta herbácea, perene, ereta, sem caule. Sabor doce, refrescante e suave.",
+      "benefs": "Indicada no tratamento de tosse, catarro, gripes, bronquite, entre outros. Fonte de vitamina C e antioxidantes como flavonoides e taninos. Observação: Consumir com moderação devido a possíveis efeitos colaterais."
+    },
+    "p7": {
+      "caracs": "Pequeno arbusto de até três metros de altura. Flores brancas e pequenas. Frutos em forma de bagas subglobosas, com casca fina e carne avermelhada. Sabor refrescante.",
+      "benefs": "Folhas para chás calmantes. Cascas do caule para controle da diabetes. Frutos ricos em antioxidantes e nutrientes essenciais."
+    },
+    "p9": {
+      "caracs": "A Taioba é uma planta com folhas gigantes e talos carnudos e verdes. A Xanthosoma sagittifolium (taioba comestível) é própria para consumo, enquanto a Taioba Brava (Xanthosoma violaceum) não é indicada para servir de alimento.",
+      "benefs": "Rica em vitamina A e antioxidantes. Deve ser cozida para remover substâncias tóxicas. Ótima substituta do espinafre e da couve."
+    },
+    "p5": {
+      "caracs": "As flores do hibisco são perfumadas e têm cores variadas. Comum na região de São Paulo, estado.",
+      "benefs": "Chá de hibisco é bom para a diminuição da pressão arterial, sintomas da TPM, saúde do coração e regulação do açúcar no sangue. Possui propriedades antioxidantes."
+    },
+    "p1": {
+      "caracs": "Sabor ácido e azedo. Folhas largas, compridas, de aspecto liso e brilhante.",
+      "benefs": "Rica em magnésio, potássio, vitamina C. Pode prevenir a bronquite, aumentar o apetite. Rica em ácido oxálico, consumir com moderação."
+    },
+    "p8": {
+      "caracs": "Talo de cor verde clara e flores amarelas e pequenas. Leitosa e pouco ramificada.",
+      "benefs": "Fonte de fibras, ferro, cálcio, fósforo, potássio, vitaminas A, B2, B6, C, D. Pode fortalecer a imunidade, prevenir a anemia, fortalecer fios capilares, melhorar a pele."
+    },
+    "p2": {
+      "caracs": "Folhas grandes em formato de coração. Planta nativa, rústica, de meia sombra.",
+      "benefs": "Alivia dores no corpo, ajuda na desintoxicação do corpo, trata infecções urinárias, e regula o ciclo menstrual. Observações: A Capeba não deve ser consumida por mulheres grávidas ou em fase de lactação. A infusão de capeba pode ser usada para aliviar febre, gripes, resfriados ou bronquite."
+    }
+  }
+  
